@@ -12,7 +12,13 @@ It is recommended that the user executes test scripts from the Postman UI so tha
    
     https://www.getpostman.com/collections/d8e08d0f0e4c3a1c555a
    
-   5) Run the collection tests
+   5) The api token is parameterized, so you'll either need to hard code it on each request OR an easier way is to create an environment
+     * Click the cog in the top right to 'Manage Environments'
+     * On the pop-up modal click 'add'
+     * Give the environment a name (ex. Movies)
+     * In the 'New key' field enter 'api_key'
+     * In the corresponding value field enter your specific API key for themoviedb.org
+   6) Run the collection tests
      * Click the arrow next to the 'Movie DB' collection
      * Click the blue 'Run' button (This will open the collection runner)
      * Enter the number of iterations you would like to repeat the tests (default is 1)
