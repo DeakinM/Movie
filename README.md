@@ -17,7 +17,7 @@ It is recommended that the user executes test scripts from the Postman UI so tha
      * On the pop-up modal click 'add'
      * Give the environment a name (ex. Movies)
      * In the 'New key' field enter 'api_key'
-     * In the corresponding value field enter your specific API key for themoviedb.org
+     * In the corresponding value field enter your specific API key for themoviedb.org (if you need an API key you can get it from - <code>https://www.themoviedb.org/documentation/api</code>
    6) Run the collection tests
      * Click the arrow next to the 'Movie DB' collection
      * Click the blue 'Run' button (This will open the collection runner)
