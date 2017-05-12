@@ -27,6 +27,7 @@ It is recommended that the user executes test scripts from the Postman UI so tha
       
 <h3>Running the tests from the command line:</h3>
 
+This is not recommended since running some of the tests this way will result in false failures. A general refactor is needed in order to 
    1) You'll need Node.js installed.  To see if you already do, use-
    <code>node -v</code>
       You can install node here- 
