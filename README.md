@@ -12,12 +12,12 @@ It is recommended that the user executes test scripts from the Postman UI so tha
    
     https://www.getpostman.com/collections/d8e08d0f0e4c3a1c555a
    
-   5) Run the collection tests.  
-      a) Click the arrow next to the 'Movie DB' collection
-      b) Click the blue 'Run' button (This will open the collection runner)
-      c) Enter the number of iterations you would like to repeat the tests (default is 1)
-      d) If you enter more than one iteration on step 'e', you can also add a delay between executions
-      e) Click the blue 'Start Test' button
+   5) Run the collection tests
+     * Click the arrow next to the 'Movie DB' collection
+     * Click the blue 'Run' button (This will open the collection runner)
+     * Enter the number of iterations you would like to repeat the tests (default is 1)
+     * If you enter more than one iteration on step 'e', you can also add a delay between executions
+     * Click the blue 'Start Test' button
       
 <h3>Running the tests from the command line:</h3>
 
